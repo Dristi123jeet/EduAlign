@@ -103,7 +103,7 @@ To run this project locally, follow these steps:
     VITE_BACKEND_URL='http://localhost:5000'
     ``` 
 
-The application should now be running on `http://localhost:5173/`.
+
 
 ## Usage
 
