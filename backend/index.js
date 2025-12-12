@@ -14,7 +14,7 @@ app.use(cookieParser());
 
 // ------------------ CORS ------------------
 const WHITELIST = [
-  "https://edu-align-tau.vercel.app",
+  "https://edu-align-five.vercel.app",
   "https://edualign.onrender.com",
   "http://localhost:3000",
   "http://127.0.0.1:3000"
